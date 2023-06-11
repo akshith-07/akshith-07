@@ -1,3 +1,5 @@
+<h1> Hey <img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> What's up?</h1>
+<p> My name is Akshith Jobirin S </p>
 # 💫 About Me:
 🔭 I’m currently working on MongoDB<br>🌱 I’m currently learning MERN full stack<br>💬 Ask me about React <br>
 
