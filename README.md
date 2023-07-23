@@ -27,5 +27,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=akshith-07&icon=0&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Akshith&label=Profile%20Views&color=8&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
