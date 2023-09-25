@@ -4,6 +4,10 @@
 
 ###
 
+
+
+###
+
 <div align="center">
   <a href="https://www.linkedin.com/in/akshith-jobirin-s-365503201/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
@@ -60,17 +64,16 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akshith-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshith-07&theme=blue-green&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshith-07&theme=blue-green&hide_border=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=akshith-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=akshith-07&theme=blue-green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshith-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-
-### 🏆 GitHub Trophies
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=akshith-07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=akshith-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+[![](https://visitcount.itsvg.in/api?id=akshith-07&label=Profile%20Views&color=8&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
