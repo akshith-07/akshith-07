@@ -33,13 +33,14 @@
 ###
 
 <p align="left">
-🎓 I am currently on a journey to achieve a Bachelor of Engineering (B.E.) in the captivating field of Computer Science and Engineering. 🌟<br>
-  🌐 Full-Stack Developer specializing in MERN (MongoDB, Express.js, React, Node.js) technologies.<br>
-  💡 Experienced in crafting responsive and user-friendly web applications.<br>
-  🧩 Love tackling complex problems and finding elegant solutions.<br>
-  🌱 Always eager to learn and stay up-to-date with the latest tech trends.<br>
-  💬 Ask me about MERN or anything in general <br>
-  📫 Reach me at: [akshith2002jobirin@gmail.com](mailto:akshith2002jobirin@gmail.com)</p>
+  - 🎓 I am currently on a journey to achieve a Bachelor of Engineering (B.E.) in the captivating field of Computer Science and Engineering. 🌟<br>
+  - 🌐 Full-Stack Developer specializing in MERN (MongoDB, Express.js, React, Node.js) technologies.<br>
+  - 💡 Experienced in crafting responsive and user-friendly web applications.<br>
+  - 🧩 Love tackling complex problems and finding elegant solutions.<br>
+  - 🌱 Always eager to learn and stay up-to-date with the latest tech trends.<br>
+  - 💬 Ask me about MERN or anything in general <br>
+  - 📫 Reach me at: akshith2002jobirin@gmail.com
+
 
 ###
 
