@@ -2,6 +2,7 @@
 <p> I am Akshith Jobirin S </p>
 <img align="right" alt="Coding" width="400" src="https://img.etimg.com/thumb/msid-84146083,width-1015,height-761,imgsize-638053,resizemode-8,quality-100/prime/technology-and-startups/booting-up-developer-economy-how-tech-startups-are-helping-coders-build-and-test-software-faster.jpg">
 
+
 # 💫 About Me: 
 
 🔭 I’m currently working on MongoDB<br>🌱 I’m currently learning MERN full stack<br>💬 Ask me about React <br>
@@ -17,11 +18,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshith-07&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshith-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://github.com/xor09" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xor09&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=akshith-07&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=akshith-07&limit=5&theme=dark&combine_all_yearly_contributions=true)
