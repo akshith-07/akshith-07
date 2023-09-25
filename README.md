@@ -13,7 +13,7 @@
 🧩 Love tackling complex problems and finding elegant solutions.<br>
 🌱 Always eager to learn and stay up-to-date with the latest tech trends.<br>
 💬 Ask me about MERN or anything in general <br>
-📫 Mail me: [akshith2002jobirin@gmail.com](mailto:akshith2002jobirin@gmail.com)
+📫 Reach me at: [akshith2002jobirin@gmail.com](mailto:akshith2002jobirin@gmail.com)
 
 
 ## 🌐 Socials:
