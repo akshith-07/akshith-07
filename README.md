@@ -65,6 +65,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ### 📊 GitHub Stats
+
 ![](https://github-readme-stats.vercel.app/api?username=akshith-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=akshith-07&theme=blue-green&hide_border=false)<br/>
@@ -82,4 +83,7 @@
 [![](https://visitcount.itsvg.in/api?id=akshith-07&label=Profile%20Views&color=8&icon=5&pretty=false)](https://visitcount.itsvg.in)
 
 ![Visitor Count](https://profile-counter.glitch.me/{akshith-07}/count.svg)
+
+[![](https://visitcount.itsvg.in/api?id=akshith-07&icon=0&color=1)](https://visitcount.itsvg.in)
+
 
