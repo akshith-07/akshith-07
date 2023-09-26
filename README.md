@@ -70,6 +70,7 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshith-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 
+
 ### ✍️ Random Dev Quote
 ![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
@@ -78,4 +79,6 @@
 
 
 [![](https://visitcount.itsvg.in/api?id=akshith-07&label=Profile%20Views&color=8&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
+![Visitor Count](https://profile-counter.glitch.me/{akshith-07}/count.svg)
 
