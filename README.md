@@ -33,7 +33,8 @@
 ###
 
 <p align="left">
-  - 🎓 I am currently on a journey to achieve a Bachelor of Engineering (B.E.) in the captivating field of Computer Science and Engineering. 🌟<br>
+  - 🎓 I am currently on a journey to achieve a Bachelor of Engineering (B.E.) in the captivating field of Computer Science and Engineering.<br>
+  - 🚀 I am currently learning Flutter, a versatile framework for building cross-platform mobile applications.<br>
   - 🌐 Full-Stack Developer specializing in MERN (MongoDB, Express.js, React, Node.js) technologies.<br>
   - 💡 Experienced in crafting responsive and user-friendly web applications.<br>
   - 🧩 Love tackling complex problems and finding elegant solutions.<br>
