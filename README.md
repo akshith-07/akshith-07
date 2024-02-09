@@ -3,7 +3,7 @@
 </div>
 
 ###
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN,+Full-Stack+Engineer;Flutter+Developer;Tech+Enthusiast;Artisan+Lover;Social+Media+Influencer;Blogger;YouTuber;and+Film+Maker!;)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN,+Full-Stack+Engineer;Flutter+Developer;Tech+Enthusiast;)](https://git.io/typing-svg)
 
 
 ###
