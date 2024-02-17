@@ -1,5 +1,5 @@
 <div align="center">
-<img  src="./thoughtworks-gif_dribbble.gif" height="290px" align="right" />
+<img  src="./thoughtworks-gif_dribbble.gif" height="250px" align="right" />
 
 
 
