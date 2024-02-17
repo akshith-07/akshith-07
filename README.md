@@ -4,10 +4,8 @@
 
 <h1 align="center">Hey there 👋 , I am Akshith</h1>
 
-<div align="center" style="margin-top: 20px;">
-  <div style="display: inline-block; border: 2px solid black; border-radius: 8px; padding: 10px;">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%2C+Full-Stack+Engineer%3BFlutter+Developer%3BTech+Enthusiast%3B" />
-  </div>
+<div align="center" style="margin-left: 20px;">
+   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%2C+Full-Stack+Engineer%3BFlutter+Developer%3BTech+Enthusiast%3B" />
 </div>
 
 <div align="center">
