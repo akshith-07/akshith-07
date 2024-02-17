@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey there 👋 , I am Akshith</h1>
 
-<div align="center" style="margin-left: 20px;">
+<div align="center">
    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%2C+Full-Stack+Engineer%3BFlutter+Developer%3BTech+Enthusiast%3B" />
 </div>
 
