@@ -1,15 +1,14 @@
 <div align="center">
-<img  src="./thoughtworks-gif_dribbble.gif" height="250px" align="right" />
-
-
-
+  <img src="./thoughtworks-gif_dribbble.gif" height="250px" />
 </div>
 
-###
- [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=MERN,+Full-Stack+Engineer;Flutter+Developer;Tech+Enthusiast;)](https://git.io/typing-svg) 
+<h1 align="center">Hey there 👋 , I am Akshith</h1>
 
-
-###
+<div align="center" style="margin-top: 20px;">
+  <div style="display: inline-block; border: 2px solid black; border-radius: 8px; padding: 10px;">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%2C+Full-Stack+Engineer%3BFlutter+Developer%3BTech+Enthusiast%3B" />
+  </div>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/akshith-jobirin-s-365503201/" target="_blank">
@@ -25,11 +24,7 @@
 
 
 
-###
 
-<h1 align="center">Hey there 👋</h1>
-
-###
 
 <h3 align="left">👩‍💻  About Me</h3>
 
