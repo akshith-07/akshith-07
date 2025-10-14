@@ -73,7 +73,7 @@ const Akshith = {
             js: ["Node", "Django", "Express"],
         },
         mobileApp: {
-            native: ["Flutter"]
+            hybrid: ["Flutter"]
         },
         databases: ["mongo", "MySql", "sqlite"],
     },
