@@ -66,21 +66,53 @@
 ```javascript
 const Akshith = {
     pronouns: "He" | "Him",
-    code: ["C", "C++", "Javascript"],
-    askMeAbout: ["web dev", "tech", "app dev"],
+    code: ["C", "C++", "JavaScript", "Python"],
+    askMeAbout: [
+        "web development",
+        "mobile app development",
+        "backend architecture",
+        "AI & data engineering",
+        "microservices"
+    ],
     technologies: {
+        frontEnd: {
+            js: ["React.js", "Next.js"],
+            styling: ["CSS", "Tailwind"]
+        },
         backEnd: {
-            js: ["Node", "Django", "Express"],
+            js: ["Node.js", "Express"],
+            python: ["Django", "FastAPI"],
+            architecture: ["REST APIs", "Microservices"]
         },
         mobileApp: {
             hybrid: ["Flutter"]
         },
-        databases: ["mongo", "MySql", "sqlite"],
+        databases: [
+            "MongoDB",
+            "PostgreSQL",
+            "MySQL",
+            "SQLite"
+        ],
+        cloudAndData: [
+            "Databricks",
+            "Data Pipelines",
+            "ETL Workflows"
+        ],
+        aiAndMl: [
+            "Model Fine-tuning",
+            "Document AI",
+            "LLM Integrations"
+        ]
     },
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    currentlyLearning: [
+        "System Design",
+        "Scalable Microservices",
+        "Advanced AI Fine-tuning"
+    ],
+    funFact: 
+        "There are two ways to write error-free programs; only the third one works"
 };
 ```
-
 
 ### 📊 GitHub Stats
 
