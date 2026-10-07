@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Akshith Jobirin S</h1>
 
 <h3 align="center">
-  Software Engineer · Full-Stack Engineer · AI Engineer · Product Builder
+  Associate Software Architect · Full-Stack Engineer · AI Engineer · Product Builder
 </h3>
 
 <p align="center">
@@ -25,13 +25,14 @@
 
 ## 👨‍💻 About Me
 
-I'm a Software Engineer who enjoys building complete products rather than
-working within a single layer of the stack.
+I'm an **Associate Software Architect** and Full-Stack Engineer who enjoys
+building complete products rather than working within a single layer of
+the stack.
 
 I have experience taking products from an idea to a working system —
-designing the user experience, building the frontend and mobile applications,
-architecting the backend, integrating AI capabilities, and making the
-technical and product decisions required to ship.
+designing the user experience, building frontend and mobile applications,
+architecting backend systems, integrating AI capabilities, and making
+the technical and product decisions required to ship.
 
 My work spans across:
 
@@ -39,9 +40,9 @@ My work spans across:
 - 📱 **Mobile Development** — Building cross-platform applications with Flutter.
 - ⚙️ **Backend Engineering** — Designing APIs and backend systems using FastAPI, Django and Node.js.
 - 🤖 **AI Engineering** — Building RAG systems, LLM-powered applications, AI automation and agentic workflows.
-- 🏗️ **System Design** — Designing scalable architectures, APIs, asynchronous workflows and integrations.
+- 🏗️ **System Architecture** — Designing scalable architectures, APIs, asynchronous workflows and service integrations.
 - 🚀 **Product Engineering** — Taking ownership of products end-to-end, from requirements and architecture to implementation and delivery.
-- 👥 **Technical Leadership** — Leading team members, reviewing technical decisions and helping drive products forward.
+- 👥 **Technical Leadership** — Leading team members, making architectural decisions and helping drive products forward.
 
 I enjoy working at the intersection of **engineering, product and design** —
 where solving the technical problem is only part of building a great product.
@@ -206,8 +207,12 @@ problem-solving and prepare for engineering interviews.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akshith-07&show_icons=true&hide_border=true&theme=transparent" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshith-07&layout=compact&hide_border=true&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=akshith-07&theme=github_dark" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=akshith-07&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=akshith-07&theme=github_dark" />
 </p>
 
 ---
