@@ -199,8 +199,10 @@ to turn AI capabilities into useful product experiences.
 
 ## 💻 Problem Solving
 
-I regularly practice Data Structures & Algorithms to strengthen
-problem-solving and prepare for engineering interviews.
+I genuinely enjoy solving Data Structures & Algorithms problems and exploring
+different ways to approach complex problems. For me, it's less about solving
+a problem once and more about understanding the underlying idea, finding
+elegant solutions, and continuously improving how I think about problems.
 
 **980+ LeetCode problems solved**  
 **180+ Hard problems solved**  
