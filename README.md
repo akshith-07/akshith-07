@@ -1,138 +1,225 @@
-<div align="center">
-  <img src="./thoughtworks-gif_dribbble.gif" height="250px" />
-</div>
+<h1 align="center">Hey 👋, I'm Akshith Jobirin S</h1>
 
-<h1 align="center">Hey there 👋 , I am Akshith</h1>
+<h3 align="center">
+  Software Engineer · Full-Stack Engineer · AI Engineer · Product Builder
+</h3>
 
-<div align="center">
-   <img src="https://readme-typing-svg.herokuapp.com/?lines=MERN%2C+Full-Stack+Engineer%3BFlutter+Developer%3BTech+Enthusiast%3B" />
-</div>
+<p align="center">
+  I build products end-to-end — from beautiful user experiences and mobile apps
+  to scalable backends, AI systems, and the product decisions behind them.
+</p>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/akshith-jobirin-s-365503201/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshith-jobirin-s-365503201">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://instagram.com/scrapz_07" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <a href="https://leetcode.com/u/akshith2002jobirin/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
   </a>
-  <a href="akshith2002jobirin@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:akshith2002jobirin@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white" />
   </a>
-</div>
+</p>
 
+---
 
+## 👨‍💻 About Me
 
+I'm a Software Engineer who enjoys building complete products rather than
+working within a single layer of the stack.
 
+I have experience taking products from an idea to a working system —
+designing the user experience, building the frontend and mobile applications,
+architecting the backend, integrating AI capabilities, and making the
+technical and product decisions required to ship.
 
-<h3 align="left">👩‍💻  About Me</h3>
+My work spans across:
 
-###
+- 🎨 **UI/UX & Frontend** — Building polished, responsive and intuitive interfaces with React and Next.js.
+- 📱 **Mobile Development** — Building cross-platform applications with Flutter.
+- ⚙️ **Backend Engineering** — Designing APIs and backend systems using FastAPI, Django and Node.js.
+- 🤖 **AI Engineering** — Building RAG systems, LLM-powered applications, AI automation and agentic workflows.
+- 🏗️ **System Design** — Designing scalable architectures, APIs, asynchronous workflows and integrations.
+- 🚀 **Product Engineering** — Taking ownership of products end-to-end, from requirements and architecture to implementation and delivery.
+- 👥 **Technical Leadership** — Leading team members, reviewing technical decisions and helping drive products forward.
 
-<p align="left">
-  - 🎓 I am currently on a journey to achieve a Bachelor of Engineering (B.E.) in the captivating field of Computer Science and Engineering.<br>
-  - 🚀 I am currently learning Flutter, a versatile framework for building cross-platform mobile applications.<br>
-  - 🌐 Full-Stack Developer specializing in MERN (MongoDB, Express.js, React, Node.js) technologies.<br>
-  - 💡 Experienced in crafting responsive and user-friendly web applications.<br>
-  - 🧩 Love tackling complex problems and finding elegant solutions.<br>
-  - 🌱 Always eager to learn and stay up-to-date with the latest tech trends.<br>
-  - 💬 Ask me about MERN or anything in general <br>
-  - 📫 Reach me at: akshith2002jobirin@gmail.com
+I enjoy working at the intersection of **engineering, product and design** —
+where solving the technical problem is only part of building a great product.
 
+---
 
-###
+## 🛠️ Tech Stack
 
+### 🎨 Frontend & UI/UX
 
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Material_UI-007FFF?style=flat&logo=mui&logoColor=white" />
+</p>
 
-### 💻 Tech Stack
-![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+I care deeply about creating interfaces that are not only functional,
+but also **beautiful, intuitive and enjoyable to use**.
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+---
 
-```javascript
-const Akshith = {
-    pronouns: "He" | "Him",
-    code: ["C", "C++", "JavaScript", "Python"],
-    askMeAbout: [
-        "web development",
-        "mobile app development",
-        "backend architecture",
-        "AI & data engineering",
-        "microservices"
-    ],
-    technologies: {
-        frontEnd: {
-            js: ["React.js", "Next.js"],
-            styling: ["CSS", "Tailwind"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-            python: ["Django", "FastAPI"],
-            architecture: ["REST APIs", "Microservices"]
-        },
-        mobileApp: {
-            hybrid: ["Flutter"]
-        },
-        databases: [
-            "MongoDB",
-            "PostgreSQL",
-            "MySQL",
-            "SQLite"
-        ],
-        cloudAndData: [
-            "Databricks",
-            "Data Pipelines",
-            "ETL Workflows"
-        ],
-        aiAndMl: [
-            "Model Fine-tuning",
-            "Document AI",
-            "LLM Integrations"
-        ]
-    },
-    currentlyLearning: [
-        "System Design",
-        "Scalable Microservices",
-        "Advanced AI Fine-tuning"
-    ],
-    funFact: 
-        "There are two ways to write error-free programs; only the third one works"
-};
+### 📱 Mobile Development
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white" />
+</p>
+
+---
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-000000?style=flat" />
+</p>
+
+---
+
+### 🗄️ Databases & Infrastructure
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white" />
+</p>
+
+---
+
+### 🤖 AI Engineering
+
+<p>
+  <img src="https://img.shields.io/badge/RAG-6A5ACD?style=flat" />
+  <img src="https://img.shields.io/badge/LLM_Applications-444444?style=flat" />
+  <img src="https://img.shields.io/badge/AI_Automation-444444?style=flat" />
+  <img src="https://img.shields.io/badge/Agentic_AI-444444?style=flat" />
+</p>
+
+I work with AI beyond simple API integrations — exploring **RAG,
+LLM-powered applications, AI automation and agentic workflows** to turn
+AI capabilities into useful product experiences.
+
+---
+
+## 🚀 Product Engineering
+
+I enjoy owning the entire product lifecycle:
+
+```text
+Idea
+  ↓
+Product Requirements
+  ↓
+UX / UI
+  ↓
+Architecture
+  ↓
+Frontend / Mobile
+  ↓
+Backend & APIs
+  ↓
+AI & Integrations
+  ↓
+Testing
+  ↓
+Deployment
+  ↓
+Iteration
 ```
 
-### 📊 GitHub Stats
+I'm comfortable moving between different layers of a product depending on
+what needs to be solved.
 
-![](https://github-readme-stats.vercel.app/api?username=akshith-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+---
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=akshith-07&theme=blue-green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=akshith-07&theme=blue-green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 🧩 What I've Been Building
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=akshith-07&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+### 🤖 AI & Meeting Automation
 
-### ✍️ Random Dev Quote
-![Random Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+Building systems around meeting automation, calendar integrations,
+automated meeting participation, media capture, transcription,
+background processing and AI-powered workflows.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=akshith-07&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+### 💼 Business & Productivity Products
 
+Working on products involving invoicing, payments, documents,
+multi-currency workflows, integrations and mobile/web applications.
 
+### 📱 Mobile Products
 
+Building Flutter applications with a strong focus on architecture,
+performance and polished user experiences.
 
-[![](https://visitcount.itsvg.in/api?id=akshith-07&icon=0&color=1)](https://visitcount.itsvg.in)
+### 🧠 AI-Powered Applications
 
+Exploring RAG, LLM integrations, AI automation and agentic development
+to turn AI capabilities into useful product experiences.
 
+---
+
+## 🏗️ Engineering Interests
+
+- System Design
+- Distributed Systems
+- Product Architecture
+- AI Engineering
+- Agentic Systems
+- RAG
+- Developer Tools
+- Scalable Backend Systems
+- UI/UX & Product Design
+
+---
+
+## 💻 Problem Solving
+
+I regularly practice Data Structures & Algorithms to strengthen
+problem-solving and prepare for engineering interviews.
+
+**980+ LeetCode problems solved**  
+**180+ Hard problems solved**  
+**366+ day solving streak**
+
+<p align="center">
+  <a href="https://leetcode.com/u/akshith2002jobirin/">
+    <img src="https://leetcard.jacoblin.cool/akshith2002jobirin?theme=dark&font=Karma&ext=heatmap" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=akshith-07&show_icons=true&hide_border=true&theme=transparent" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akshith-07&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akshith-jobirin-s-365503201/">LinkedIn</a>
+  ·
+  <a href="https://leetcode.com/u/akshith2002jobirin/">LeetCode</a>
+  ·
+  <a href="https://github.com/akshith-07">GitHub</a>
+  ·
+  <a href="mailto:akshith2002jobirin@gmail.com">Email</a>
+</p>
