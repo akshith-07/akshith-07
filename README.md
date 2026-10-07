@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Akshith Jobirin S</h1>
 
 <h3 align="center">
-  Associate Software Architect · Full-Stack Engineer · AI Engineer · Product Builder
+  Associate Software Architect · Full-Stack Engineer · AI Engineer · Product Engineering
 </h3>
 
 <p align="center">
