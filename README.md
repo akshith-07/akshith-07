@@ -25,7 +25,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **Associate Software Architect** and Full-Stack Engineer who enjoys
+I'm an **Associate Product Architect** and Full-Stack Engineer who enjoys
 building complete products rather than working within a single layer of
 the stack.
 
